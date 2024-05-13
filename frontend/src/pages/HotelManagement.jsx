@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Typography, Box, Container, Tabs, Tab } from '@mui/material';
 import AddHotelForm from '../hotels/AddHotelForm';
-import DeleteHotelForm from '../hotels/DeleteHotelForm';
+import DeleteHotelForm from '../hotels/DelteHotelForm';
 import UpdateHotelForm from '../hotels/UpdateHotelForm';
 import AllHotels from '../hotels/AllHotels';
 
